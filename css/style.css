@@ -24,7 +24,7 @@ body{
 ***********/
 
 .home{
-    background-image: url(/images/bg-home.jpg);
+    background-image: url(../images/bg-home.jpg);
     height: 100vh; /*viewport height*/
     background-size: cover;
     position: relative;
